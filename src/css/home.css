@@ -159,8 +159,9 @@ body {
 
 .user p {
   display: flex;
+  color: white;
   align-items: center;
-  font-weight: 300;
+  font-weight: bold;
   margin: 0;
 }
 .user img {
