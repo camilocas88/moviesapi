@@ -184,7 +184,7 @@ body {
 }
 .primaryPlaylist-title {
   margin: 0 0 15px;
-  color: #3F546C;
+  color: yellowgreen;
   font-size: 20px;
   font-weight: 400;
 }
@@ -216,7 +216,7 @@ body {
 }
 .primaryPlaylistItem-title {
   margin: 5px 0;
-  color: #44546B;
+  color: yellowgreen;
   font-size: 14px;
   font-weight: normal;
 }
